@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D3CCB44E204EF6CB0083D740 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3CCB44D204EF6CB0083D740 /* AppDelegate.swift */; };
-		D3CCB450204EF6CB0083D740 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3CCB44F204EF6CB0083D740 /* ViewController.swift */; };
-		D3CCB453204EF6CB0083D740 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3CCB451204EF6CB0083D740 /* Main.storyboard */; };
-		D3CCB455204EF6CB0083D740 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3CCB454204EF6CB0083D740 /* Assets.xcassets */; };
-		D3CCB458204EF6CB0083D740 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3CCB456204EF6CB0083D740 /* LaunchScreen.storyboard */; };
-		D3CCB462204EFAEA0083D740 /* SwitchStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3CCB461204EFAEA0083D740 /* SwitchStatus.swift */; };
-		D3CCB464204EFB550083D740 /* Togglable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3CCB463204EFB550083D740 /* Togglable.swift */; };
+		716490CF1F4220EF003E0139 /* Togglable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716490CE1F4220EF003E0139 /* Togglable.swift */; };
+		716490D21F42211A003E0139 /* SwitchStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716490D11F42211A003E0139 /* SwitchStatus.swift */; };
+		71A594C11F421EC000AA936B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A594C01F421EC000AA936B /* AppDelegate.swift */; };
+		71A594C31F421EC000AA936B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A594C21F421EC000AA936B /* ViewController.swift */; };
+		71A594C61F421EC000AA936B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71A594C41F421EC000AA936B /* Main.storyboard */; };
+		71A594C81F421EC000AA936B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71A594C71F421EC000AA936B /* Assets.xcassets */; };
+		71A594CB1F421EC000AA936B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71A594C91F421EC000AA936B /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D3CCB44A204EF6CB0083D740 /* Eluxon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Eluxon.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D3CCB44D204EF6CB0083D740 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D3CCB44F204EF6CB0083D740 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D3CCB452204EF6CB0083D740 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D3CCB454204EF6CB0083D740 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D3CCB457204EF6CB0083D740 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D3CCB459204EF6CB0083D740 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D3CCB461204EFAEA0083D740 /* SwitchStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchStatus.swift; sourceTree = "<group>"; };
-		D3CCB463204EFB550083D740 /* Togglable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Togglable.swift; sourceTree = "<group>"; };
+		716490CE1F4220EF003E0139 /* Togglable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Togglable.swift; sourceTree = "<group>"; };
+		716490D11F42211A003E0139 /* SwitchStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchStatus.swift; sourceTree = "<group>"; };
+		71A594BD1F421EC000AA936B /* eluxon-teacherbuild.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "eluxon-teacherbuild.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		71A594C01F421EC000AA936B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		71A594C21F421EC000AA936B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		71A594C51F421EC000AA936B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		71A594C71F421EC000AA936B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		71A594CA1F421EC000AA936B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		71A594CC1F421EC000AA936B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D3CCB447204EF6CB0083D740 /* Frameworks */ = {
+		71A594BA1F421EC000AA936B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,90 +39,89 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D3CCB441204EF6CB0083D740 = {
+		716490CD1F4220E1003E0139 /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
-				D3CCB44C204EF6CB0083D740 /* Eluxon */,
-				D3CCB44B204EF6CB0083D740 /* Products */,
+				716490CE1F4220EF003E0139 /* Togglable.swift */,
 			);
+			path = Protocols;
 			sourceTree = "<group>";
 		};
-		D3CCB44B204EF6CB0083D740 /* Products */ = {
+		716490D01F42210F003E0139 /* Enums */ = {
 			isa = PBXGroup;
 			children = (
-				D3CCB44A204EF6CB0083D740 /* Eluxon.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		D3CCB44C204EF6CB0083D740 /* Eluxon */ = {
-			isa = PBXGroup;
-			children = (
-				D3CCB460204EFABA0083D740 /* Protocols */,
-				D3CCB45F204EFA9B0083D740 /* Enums */,
-				D3CCB44D204EF6CB0083D740 /* AppDelegate.swift */,
-				D3CCB44F204EF6CB0083D740 /* ViewController.swift */,
-				D3CCB451204EF6CB0083D740 /* Main.storyboard */,
-				D3CCB454204EF6CB0083D740 /* Assets.xcassets */,
-				D3CCB456204EF6CB0083D740 /* LaunchScreen.storyboard */,
-				D3CCB459204EF6CB0083D740 /* Info.plist */,
-			);
-			path = Eluxon;
-			sourceTree = "<group>";
-		};
-		D3CCB45F204EFA9B0083D740 /* Enums */ = {
-			isa = PBXGroup;
-			children = (
-				D3CCB461204EFAEA0083D740 /* SwitchStatus.swift */,
+				716490D11F42211A003E0139 /* SwitchStatus.swift */,
 			);
 			path = Enums;
 			sourceTree = "<group>";
 		};
-		D3CCB460204EFABA0083D740 /* Protocols */ = {
+		71A594B41F421EC000AA936B = {
 			isa = PBXGroup;
 			children = (
-				D3CCB463204EFB550083D740 /* Togglable.swift */,
+				71A594BF1F421EC000AA936B /* eluxon-teacherbuild */,
+				71A594BE1F421EC000AA936B /* Products */,
 			);
-			path = Protocols;
+			sourceTree = "<group>";
+		};
+		71A594BE1F421EC000AA936B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				71A594BD1F421EC000AA936B /* eluxon-teacherbuild.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		71A594BF1F421EC000AA936B /* eluxon-teacherbuild */ = {
+			isa = PBXGroup;
+			children = (
+				716490D01F42210F003E0139 /* Enums */,
+				716490CD1F4220E1003E0139 /* Protocols */,
+				71A594C01F421EC000AA936B /* AppDelegate.swift */,
+				71A594C21F421EC000AA936B /* ViewController.swift */,
+				71A594C41F421EC000AA936B /* Main.storyboard */,
+				71A594C71F421EC000AA936B /* Assets.xcassets */,
+				71A594C91F421EC000AA936B /* LaunchScreen.storyboard */,
+				71A594CC1F421EC000AA936B /* Info.plist */,
+			);
+			path = "eluxon-teacherbuild";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D3CCB449204EF6CB0083D740 /* Eluxon */ = {
+		71A594BC1F421EC000AA936B /* eluxon-teacherbuild */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D3CCB45C204EF6CB0083D740 /* Build configuration list for PBXNativeTarget "Eluxon" */;
+			buildConfigurationList = 71A594CF1F421EC000AA936B /* Build configuration list for PBXNativeTarget "eluxon-teacherbuild" */;
 			buildPhases = (
-				D3CCB446204EF6CB0083D740 /* Sources */,
-				D3CCB447204EF6CB0083D740 /* Frameworks */,
-				D3CCB448204EF6CB0083D740 /* Resources */,
+				71A594B91F421EC000AA936B /* Sources */,
+				71A594BA1F421EC000AA936B /* Frameworks */,
+				71A594BB1F421EC000AA936B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Eluxon;
-			productName = Eluxon;
-			productReference = D3CCB44A204EF6CB0083D740 /* Eluxon.app */;
+			name = "eluxon-teacherbuild";
+			productName = "eluxon-teacherbuild";
+			productReference = 71A594BD1F421EC000AA936B /* eluxon-teacherbuild.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D3CCB442204EF6CB0083D740 /* Project object */ = {
+		71A594B51F421EC000AA936B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "Zack Saltzman";
+				ORGANIZATIONNAME = "Caleb Stultz";
 				TargetAttributes = {
-					D3CCB449204EF6CB0083D740 = {
+					71A594BC1F421EC000AA936B = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = D3CCB445204EF6CB0083D740 /* Build configuration list for PBXProject "Eluxon" */;
+			buildConfigurationList = 71A594B81F421EC000AA936B /* Build configuration list for PBXProject "eluxon-teacherbuild" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -130,56 +129,56 @@
 				en,
 				Base,
 			);
-			mainGroup = D3CCB441204EF6CB0083D740;
-			productRefGroup = D3CCB44B204EF6CB0083D740 /* Products */;
+			mainGroup = 71A594B41F421EC000AA936B;
+			productRefGroup = 71A594BE1F421EC000AA936B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D3CCB449204EF6CB0083D740 /* Eluxon */,
+				71A594BC1F421EC000AA936B /* eluxon-teacherbuild */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D3CCB448204EF6CB0083D740 /* Resources */ = {
+		71A594BB1F421EC000AA936B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3CCB458204EF6CB0083D740 /* LaunchScreen.storyboard in Resources */,
-				D3CCB455204EF6CB0083D740 /* Assets.xcassets in Resources */,
-				D3CCB453204EF6CB0083D740 /* Main.storyboard in Resources */,
+				71A594CB1F421EC000AA936B /* LaunchScreen.storyboard in Resources */,
+				71A594C81F421EC000AA936B /* Assets.xcassets in Resources */,
+				71A594C61F421EC000AA936B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D3CCB446204EF6CB0083D740 /* Sources */ = {
+		71A594B91F421EC000AA936B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3CCB450204EF6CB0083D740 /* ViewController.swift in Sources */,
-				D3CCB44E204EF6CB0083D740 /* AppDelegate.swift in Sources */,
-				D3CCB462204EFAEA0083D740 /* SwitchStatus.swift in Sources */,
-				D3CCB464204EFB550083D740 /* Togglable.swift in Sources */,
+				71A594C31F421EC000AA936B /* ViewController.swift in Sources */,
+				71A594C11F421EC000AA936B /* AppDelegate.swift in Sources */,
+				716490CF1F4220EF003E0139 /* Togglable.swift in Sources */,
+				716490D21F42211A003E0139 /* SwitchStatus.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D3CCB451204EF6CB0083D740 /* Main.storyboard */ = {
+		71A594C41F421EC000AA936B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D3CCB452204EF6CB0083D740 /* Base */,
+				71A594C51F421EC000AA936B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D3CCB456204EF6CB0083D740 /* LaunchScreen.storyboard */ = {
+		71A594C91F421EC000AA936B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D3CCB457204EF6CB0083D740 /* Base */,
+				71A594CA1F421EC000AA936B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -187,7 +186,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D3CCB45A204EF6CB0083D740 /* Debug */ = {
+		71A594CD1F421EC000AA936B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +243,7 @@
 			};
 			name = Debug;
 		};
-		D3CCB45B204EF6CB0083D740 /* Release */ = {
+		71A594CE1F421EC000AA936B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -294,28 +293,28 @@
 			};
 			name = Release;
 		};
-		D3CCB45D204EF6CB0083D740 /* Debug */ = {
+		71A594D01F421EC000AA936B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Eluxon/Info.plist;
+				DEVELOPMENT_TEAM = HLCDLFXF5Y;
+				INFOPLIST_FILE = "eluxon-teacherbuild/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MorseLife.Eluxon;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stultzapps.eluxon-teacherbuild";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D3CCB45E204EF6CB0083D740 /* Release */ = {
+		71A594D11F421EC000AA936B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Eluxon/Info.plist;
+				DEVELOPMENT_TEAM = HLCDLFXF5Y;
+				INFOPLIST_FILE = "eluxon-teacherbuild/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MorseLife.Eluxon;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stultzapps.eluxon-teacherbuild";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -325,25 +324,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D3CCB445204EF6CB0083D740 /* Build configuration list for PBXProject "Eluxon" */ = {
+		71A594B81F421EC000AA936B /* Build configuration list for PBXProject "eluxon-teacherbuild" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D3CCB45A204EF6CB0083D740 /* Debug */,
-				D3CCB45B204EF6CB0083D740 /* Release */,
+				71A594CD1F421EC000AA936B /* Debug */,
+				71A594CE1F421EC000AA936B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D3CCB45C204EF6CB0083D740 /* Build configuration list for PBXNativeTarget "Eluxon" */ = {
+		71A594CF1F421EC000AA936B /* Build configuration list for PBXNativeTarget "eluxon-teacherbuild" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D3CCB45D204EF6CB0083D740 /* Debug */,
-				D3CCB45E204EF6CB0083D740 /* Release */,
+				71A594D01F421EC000AA936B /* Debug */,
+				71A594D11F421EC000AA936B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D3CCB442204EF6CB0083D740 /* Project object */;
+	rootObject = 71A594B51F421EC000AA936B /* Project object */;
 }
